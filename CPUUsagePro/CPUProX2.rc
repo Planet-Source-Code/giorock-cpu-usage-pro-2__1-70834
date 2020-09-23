@@ -1,0 +1,6 @@
+#define SPEEDINDEX  1001
+#define PICROTATE   1002
+
+SPEEDINDEX  BITMAP  DISCARDABLE LOADONCALL "SpeedIndex.bmp"
+
+PICROTATE   CUSTOM                          "PicRotate.bin" 
